@@ -5,3 +5,5 @@
 var names:string="mz"
 console.log(names);
 console.log(typeof(names));
+
+
