@@ -7,3 +7,4 @@ console.log(names);
 console.log(typeof(names));
 
 
+// in terminal :- tsc 2.ts this generates a filewith 2.js and then node filename.js gives output

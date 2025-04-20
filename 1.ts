@@ -2,3 +2,4 @@
 
 //install ts 
 // npm i -g typesript
+
