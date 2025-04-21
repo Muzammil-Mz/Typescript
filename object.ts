@@ -24,4 +24,12 @@ let bike: bikes = {
 
 console.log(bike.model);
 
+//can also be written without interface 
+
+let games:{game1:string,distance:number}={
+  game1:"crick",
+  distance:55
+}
+
+console.log(games.distance);
 

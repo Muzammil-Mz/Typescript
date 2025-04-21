@@ -6,6 +6,12 @@ var card = {
 console.log(card.name);
 var bike = {
     name: "yamaha",
-    model: 226
+    model: 226,
 };
 console.log(bike.model);
+//can also be written without interface 
+var games = {
+    game1: "crick",
+    distance: 55
+};
+console.log(games.distance);
